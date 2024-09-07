@@ -5,25 +5,25 @@
 Esta é a API de uma escola de desenvolvedores, desenvolvida utilizando o Django REST Framework. A API fornece endpoints para gerenciar Estudantes, cursos e matriculas.
 
 # 🚀 Funcionalidades
-• Gerenciamento de Estudantes (CRUD)
+• Gerenciamento de Estudantes (CRUD).
 
-• Gerenciamento de Cursos (CRUD)
+• Gerenciamento de Cursos (CRUD).
 
-• Gerenciamento de Matriculas (CRUD)
+• Gerenciamento de Matriculas (CRUD).
 
-• Autenticação e autorização de usuários
+• Autenticação e autorização de usuários.
 
 # 🛠 Tecnologias utilizadas 
 
-• Django - Framework principal para desenvolvimento da API
+• Django - Framework principal para desenvolvimento da API.
 
-• Django REST Framework - Biblioteca para criar APIs RESTful
+• Django REST Framework - Biblioteca para criar APIs RESTful.
 
-• SQLite - Banco de dados utilizado para armazenar as informações
+• SQLite - Banco de dados utilizado para armazenar as informações.
 
-• Docker - Para containerização e fácil gerenciamento do ambiente de desenvolvimento
+• Docker - Para containerização e fácil gerenciamento do ambiente de desenvolvimento.
 
-• Postman - testes e validações para garantir a funcionalidade da API
+• Postman - testes e validações para garantir a funcionalidade da API.
 
 # Configuração do Ambiente Virtual (venv)
 
