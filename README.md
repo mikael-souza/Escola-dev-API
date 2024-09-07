@@ -1,10 +1,31 @@
 **README.md**
 
-# API ESCOLA
+# API Escola de Desenvolvedores 
 
-Este é o repositório para o projeto de API de uma Escola feito em Django REST Framework.
+Esta é a API de uma escola de desenvolvedores, desenvolvida utilizando o Django REST Framework. A API fornece endpoints para gerenciar Estudantes, cursos e matriculas.
 
-## Configuração do Ambiente Virtual (venv)
+# 🚀 Funcionalidades
+• Gerenciamento de Estudantes (CRUD)
+
+• Gerenciamento de Cursos (CRUD)
+
+• Gerenciamento de Matriculas (CRUD)
+
+• Autenticação e autorização de usuários
+
+# 🛠 Tecnologias utilizadas 
+
+• Django - Framework principal para desenvolvimento da API
+
+• Django REST Framework - Biblioteca para criar APIs RESTful
+
+• SQLite - Banco de dados utilizado para armazenar as informações
+
+• Docker - Para containerização e fácil gerenciamento do ambiente de desenvolvimento
+
+• Postman - testes e validações para garantir a funcionalidade da API
+
+# Configuração do Ambiente Virtual (venv)
 
 Para garantir um ambiente de desenvolvimento limpo e isolado, é recomendável usar um ambiente virtual do Python. Siga as etapas abaixo para configurar e ativar o ambiente virtual:
 
@@ -59,3 +80,9 @@ python manage.py runserver
 ```
 
 Isso iniciará o servidor de desenvolvimento em `http://localhost:8000/`. Você pode acessar este URL em seu navegador para interagir com a API.
+
+# 🤝 Contribuições 
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+# 🧑‍💻 Autor 
+Desenvolvido por Mikael Ferreira
